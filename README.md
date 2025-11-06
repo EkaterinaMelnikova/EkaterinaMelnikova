@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### About me
 -->
 
-- 💼 I'm QA Engineer since 2021 (fintech company)
+- 💼 I'm QA Engineer 
 - 🌱 I’m currently learning Java Automation 
 - 📫 How to reach me: @katkimo on telegram 
 
