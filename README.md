@@ -1,32 +1,42 @@
-## Hi there 👋
+### Hi there, I'm Ekaterina 👋
 
+<!--
+**EkaterinaMelnikova/EkaterinaMelnikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p> С 2021 -  QA-manual в финтехе.</p>
-<p> C 2025 -  Fullstack QA. Здесь размещаю демо и тестовые задания. </p>
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+### About me
+-->
 
+- 💼 I'm QA Engineer since 2021 (fintech company)
+- 🌱 I’m currently learning Java Automation 
+- 📫 How to reach me: @katkimo on telegram 
 
+### Tools and technologies:
 <p  align="center">
+  <code><img width="5%" title="Java" src="./media/icons/Java.svg"></code>
+  <code><img width="5%" title="JUnit5" src="./media/icons/Junit5.svg"></code>
+  <code><img width="5%" title="IntelliJ IDEA" src="./media/icons/Idea.svg"></code>
+  <code><img width="5%" title="Selenoid" src="./media/icons/Selenoid.svg"></code>
+  <code><img width="5%" title="Gradle" src="./media/icons/Gradle.svg"></code>
+  <code><img width="5%" title="Allure Report" src="./media/icons/Allure.svg"></code>
+  <code><img width="5%" title="Github" src="./media/icons/GitHub.svg"></code>
+  <code><img width="5%" title="Jenkins" src="./media/icons/Jenkins.svg"></code>
+</p>
 
-  <code><img width="3.5%" title="Github" src="./images/icons/GitHub.svg"></code>
-  <code><img width="3.5%" title="Java" src="./images/icons/java-logo.svg"></code>
-  <code><img width="3.5%" title="IntelliJ IDEA" src="./images/icons/IDEA-logo.svg"></code>
-  <code><img width="3.5%" title="JUnit5" src="./images/icons/junit5-logo.svg"></code>
-  <code><img width="3.5%" title="Gradle" src="./images/icons/gradle-logo.svg"></code>
-  <code><img width="3.5%" title="Selenide" src="./images/icons/selenide-logo.svg"></code>
-  <code><img width="3.5%" title="Allure Report" src="./images/icons/allure-Report-logo.svg"></code>
-  <code><img width="3.5%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
-  <code><img width="3.5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
+### My projects:
+#### :heavy_check_mark: UI Autotests for [yandex.ru/finance](https://yandex.ru/finance) website
 
 
 
-<table width="100%" border='0'>
-   <tr> 
-    <td valign="middle"><strong>Тестовые проекты</strong></td><td valign="middle"><strong>Особенности</strong></td></tr>
-    <td valign="middle">Тестирование UI</br>проект: <a target="_blank" href="https://github.com/EkaterinaMelnikova/ya_finance_tests">tests-ui-finance-yandex</a></td><td valign="middle">- Page Object</br>- Параметризованные тесты</br>- Cборка в Jenkins</br>- Отчет в Allure</td></tr>  
-   </tr>
-  </table>
-  </br>
 
 
 
