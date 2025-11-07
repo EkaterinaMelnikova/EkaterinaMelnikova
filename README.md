@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### My projects:
 #### :heavy_check_mark: UI Autotests for [yandex.ru/finance](https://yandex.ru/finance) website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EkaterinaMelnikova&repo=ya_finance_tests)](https://github.com/EkaterinaMelnikova/ya_finance_tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EkaterinaMelnikova&repo=ya_finance_tests)](https://github.com/EkaterinaMelnikova/ya_finance_tests/tree/remote)
 
 
 
