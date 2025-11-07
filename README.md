@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 ### About me
 -->
 
-- 💼 I'm QA Engineer 
-- 🌱 I’m currently learning Java Automation 
+- 💼 I'm QA Engineer
 - 📫 How to reach me: @katkimo on telegram 
 
 ### Tools and technologies:
