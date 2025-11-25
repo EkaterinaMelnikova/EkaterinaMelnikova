@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EkaterinaMelnikova&repo=ya_finance_tests)](https://github.com/EkaterinaMelnikova/ya_finance_tests/tree/remote)
 
 #### :heavy_check_mark: UI Autotests for [demoqa.com/automation-practice-form](https://demoqa.com/automation-practice-form) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EkaterinaMelnikova&repo=demoqa.com/automation-practice-form)](https://github.com/EkaterinaMelnikova/demoqa.com_remote)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EkaterinaMelnikova&repo=demoqa.com_remote)](https://github.com/EkaterinaMelnikova/demoqa.com_remote)
 
 
 
