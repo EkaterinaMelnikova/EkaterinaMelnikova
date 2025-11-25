@@ -35,6 +35,12 @@ Here are some ideas to get you started:
 #### :heavy_check_mark: UI Autotests for [yandex.ru/finance](https://yandex.ru/finance) website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EkaterinaMelnikova&repo=ya_finance_tests)](https://github.com/EkaterinaMelnikova/ya_finance_tests/tree/remote)
 
+#### :heavy_check_mark: UI Autotests for [demoqa.com/automation-practice-form](https://demoqa.com/automation-practice-form) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EkaterinaMelnikova&repo=demoqa.com/automation-practice-form)](https://github.com/EkaterinaMelnikova/demoqa.com_remote)
+
+
+
+
 
 
 
