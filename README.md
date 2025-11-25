@@ -31,13 +31,12 @@ Here are some ideas to get you started:
   <code><img width="5%" title="Jenkins" src="./media/icons/Jenkins.svg"></code>
 </p>
 
-### My projects:
-#### :heavy_check_mark: UI Autotests for [yandex.ru/finance](https://yandex.ru/finance) website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EkaterinaMelnikova&repo=ya_finance_tests)](https://github.com/EkaterinaMelnikova/ya_finance_tests/tree/remote)
+###  My Automation Projects
 
-#### :heavy_check_mark: UI Autotests for [demoqa.com/automation-practice-form](https://demoqa.com/automation-practice-form) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EkaterinaMelnikova&repo=demoqa.com_remote)](https://github.com/EkaterinaMelnikova/demoqa.com_remote)
-
+| Project | Description | Technologies |
+|---------|-------------|-------------|
+| **[Yandex Finance UI Tests](https://github.com/EkaterinaMelnikova/ya_finance_tests)** | Automated tests for financial platform | `Java` `Selenide` `JUnit` `Gradle` |
+| **[DemoQA Practice Form Tests](https://github.com/EkaterinaMelnikova/demoqa.com_remote)** | Automation practice form testing | `Java` `Selenide` `JUnit` `Gradle` |
 
 
 
