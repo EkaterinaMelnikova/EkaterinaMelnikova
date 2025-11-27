@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 | Project | Description | Technologies |
 |---------|-------------|-------------|
 | **[Yandex Finance UI Tests](https://github.com/EkaterinaMelnikova/ya_finance_tests)** | Automated tests for financial platform | `Java` `Selenide` `JUnit` `Gradle` |
-| **[DemoQA Practice Form Tests](https://github.com/EkaterinaMelnikova/demoqa.com_remote)** | Automation practice form testing | `Java` `Selenide` `JUnit` `Gradle` |
+| **[DemoQA Practice Form Tests](https://github.com/EkaterinaMelnikova/demoqa.com_remote_systemProperties)** | Automation practice form testing | `Java` `Selenide` `JUnit` `Gradle` |
 
 
 
